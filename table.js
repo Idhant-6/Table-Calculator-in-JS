@@ -1,0 +1,11 @@
+let num = window.prompt("Tell me the number for which you want the table.");
+document.writeln(`${num} x 1 = ${num * 1}<br>`);
+document.writeln(`${num} x 2 = ${num * 2}<br>`);
+document.writeln(`${num} x 3 = ${num * 3}<br>`);
+document.writeln(`${num} x 4 = ${num * 4}<br>`);
+document.writeln(`${num} x 5 = ${num * 5}<br>`);
+document.writeln(`${num} x 6 = ${num * 6}<br>`);
+document.writeln(`${num} x 7 = ${num * 7}<br>`);
+document.writeln(`${num} x 8 = ${num * 8}<br>`);
+document.writeln(`${num} x 9 = ${num * 9}<br>`);
+document.writeln(`${num} x 10 = ${num * 10}<br>`);
